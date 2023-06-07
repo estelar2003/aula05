@@ -1,0 +1,7 @@
+C:\Users\stella.gmendonca\source\repos\Aula05Condicoes\Aula05Condicoes\obj\Debug\Aula05Condicoes.csproj.AssemblyReference.cache
+C:\Users\stella.gmendonca\source\repos\Aula05Condicoes\Aula05Condicoes\obj\Debug\Aula05Condicoes.csproj.CoreCompileInputs.cache
+C:\Users\stella.gmendonca\source\repos\Aula05Condicoes\Aula05Condicoes\bin\Debug\Aula05Condicoes.exe.config
+C:\Users\stella.gmendonca\source\repos\Aula05Condicoes\Aula05Condicoes\bin\Debug\Aula05Condicoes.exe
+C:\Users\stella.gmendonca\source\repos\Aula05Condicoes\Aula05Condicoes\bin\Debug\Aula05Condicoes.pdb
+C:\Users\stella.gmendonca\source\repos\Aula05Condicoes\Aula05Condicoes\obj\Debug\Aula05Condicoes.exe
+C:\Users\stella.gmendonca\source\repos\Aula05Condicoes\Aula05Condicoes\obj\Debug\Aula05Condicoes.pdb
